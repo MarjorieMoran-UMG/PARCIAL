@@ -1,0 +1,15 @@
+C:\Users\Marjorie\Desktop\PARCIAL\PARCIAL\bin\Debug\netstandard2.0\PARCIAL.deps.json
+C:\Users\Marjorie\Desktop\PARCIAL\PARCIAL\bin\Debug\netstandard2.0\PARCIAL.dll
+C:\Users\Marjorie\Desktop\PARCIAL\PARCIAL\bin\Debug\netstandard2.0\ref\PARCIAL.dll
+C:\Users\Marjorie\Desktop\PARCIAL\PARCIAL\bin\Debug\netstandard2.0\PARCIAL.pdb
+C:\Users\Marjorie\Desktop\PARCIAL\PARCIAL\obj\Debug\netstandard2.0\PARCIAL.csprojAssemblyReference.cache
+C:\Users\Marjorie\Desktop\PARCIAL\PARCIAL\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Marjorie\Desktop\PARCIAL\PARCIAL\obj\Debug\netstandard2.0\App1.xaml.g.cs
+C:\Users\Marjorie\Desktop\PARCIAL\PARCIAL\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Marjorie\Desktop\PARCIAL\PARCIAL\obj\Debug\netstandard2.0\PARCIAL.AssemblyInfoInputs.cache
+C:\Users\Marjorie\Desktop\PARCIAL\PARCIAL\obj\Debug\netstandard2.0\PARCIAL.AssemblyInfo.cs
+C:\Users\Marjorie\Desktop\PARCIAL\PARCIAL\obj\Debug\netstandard2.0\PARCIAL.csproj.CoreCompileInputs.cache
+C:\Users\Marjorie\Desktop\PARCIAL\PARCIAL\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Marjorie\Desktop\PARCIAL\PARCIAL\obj\Debug\netstandard2.0\PARCIAL.dll
+C:\Users\Marjorie\Desktop\PARCIAL\PARCIAL\obj\Debug\netstandard2.0\ref\PARCIAL.dll
+C:\Users\Marjorie\Desktop\PARCIAL\PARCIAL\obj\Debug\netstandard2.0\PARCIAL.pdb

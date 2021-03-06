@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PARCIAL.App1">
+  <!--Pages can be added as references or inline-->
+    <ContentPage Title="P1">
+        <StackLayout>
+            <Label 
+                Text ="Tengo la posibilidad de adivinar el número en el que estás pensando"
+                FontAttributes="Italic"
+                FontSize="20"
+                HorizontalTextAlignment="Center"
+                />
+            <Label FontSize="10"
+                   Text="Piensa en un número, el que tú quieras, luego multiplicalo por 2"
+                   HorizontalTextAlignment="Center"
+                   VerticalTextAlignment="Center"/>
+            <Label FontSize="10"
+                   Text="Al resultado obtenido súmale 8"
+                   HorizontalTextAlignment="Center"
+                   VerticalTextAlignment="Center"/>
+            <Label FontSize="10"
+                   Text="Ahora multiplicalo por 5"
+                   HorizontalTextAlignment="Center"
+                   VerticalTextAlignment="Center"/>
+            <Entry Margin="20,20,20,20"
+                   Placeholder="Ingresa tu resultado"
+                   x:Name="n"
+                   HorizontalTextAlignment="Center"
+                   VerticalTextAlignment="Center"/>
+            <Button BackgroundColor="HotPink"
+                    HorizontalOptions="Center"
+                    Text="¡Adivinar!"
+                    Clicked="Button_Clicked"/>
+        </StackLayout>
+    </ContentPage>
+
+
+    <ContentPage Title="P2">
+        <StackLayout>
+            <Label
+                Text="¡Puedo adivinar la fecha de tu cumpleaños!"
+                FontAttributes="Italic"
+                FontSize="30"
+                HorizontalTextAlignment="Center"/>
+            <Label FontSize="10"
+                   Text="Piensa en la fecha de tu cumpleaños, ahora bien multiplicalo por 20"
+                   HorizontalTextAlignment="Center"
+                   VerticalTextAlignment="Center"/>
+            <Label FontSize="10"
+                   Text="Al resultado que obtuviste súmale 73"
+                   HorizontalTextAlignment="Center"
+                   VerticalTextAlignment="Center"/>
+            <Label FontSize="10"
+                   Text="Luego multiplicalo por 5"
+                   HorizontalTextAlignment="Center"
+                   VerticalTextAlignment="Center"/>
+            <Label FontSize="10"
+                   Text="Por último suma el número de mes de tu cumpleaños"
+                   HorizontalTextAlignment="Center"
+                   VerticalTextAlignment="Center"/>
+            <Entry Margin=" 20,20,20,20"
+                   Placeholder="Ingresa tu resultado"
+                   x:Name="h"
+                   HorizontalTextAlignment="Center"
+                   VerticalTextAlignment="Center"/>
+            <Button BackgroundColor="Aquamarine"
+                    HorizontalOptions="Center"
+                    Text="¡Adivinar!"
+                    Clicked="Button_Clicked"/>
+        </StackLayout>
+    </ContentPage>
+</TabbedPage>
