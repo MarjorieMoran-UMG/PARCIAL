@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mthfLgu950nTChVhKU2PU0urQq4Ujd8ZRK4d5C3tWfpdg/bY7s9ac9p/RjAvY5Utyd0RErfiWmxD3aDNXkLBLg==",
+  "dgSpecHash": "exmUrYqNgmsZwaiIZNJbPiGEbE8NMG//GQdPknynqDJT0fcnRnzX4uF04MAIcDHiIOo7Yu4eu/Nox5xCHc8iGA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Marjorie\\Desktop\\PARCIAL\\PARCIAL\\PARCIAL.csproj",
+  "projectFilePath": "C:\\Users\\Marjorie\\Desktop\\PARCIAL\\PARCIAL\\PARCIAL\\PARCIAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Marjorie\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Marjorie\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

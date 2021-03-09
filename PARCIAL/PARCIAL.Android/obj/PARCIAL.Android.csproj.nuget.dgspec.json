@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Marjorie\\Desktop\\PARCIAL\\PARCIAL.Android\\PARCIAL.Android.csproj": {}
+    "C:\\Users\\Marjorie\\Desktop\\PARCIAL\\PARCIAL\\PARCIAL.Android\\PARCIAL.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Marjorie\\Desktop\\PARCIAL\\PARCIAL.Android\\PARCIAL.Android.csproj": {
+    "C:\\Users\\Marjorie\\Desktop\\PARCIAL\\PARCIAL\\PARCIAL.Android\\PARCIAL.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Marjorie\\Desktop\\PARCIAL\\PARCIAL.Android\\PARCIAL.Android.csproj",
+        "projectUniqueName": "C:\\Users\\Marjorie\\Desktop\\PARCIAL\\PARCIAL\\PARCIAL.Android\\PARCIAL.Android.csproj",
         "projectName": "PARCIAL.Android",
-        "projectPath": "C:\\Users\\Marjorie\\Desktop\\PARCIAL\\PARCIAL.Android\\PARCIAL.Android.csproj",
+        "projectPath": "C:\\Users\\Marjorie\\Desktop\\PARCIAL\\PARCIAL\\PARCIAL.Android\\PARCIAL.Android.csproj",
         "packagesPath": "C:\\Users\\Marjorie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Marjorie\\Desktop\\PARCIAL\\PARCIAL.Android\\obj\\",
+        "outputPath": "C:\\Users\\Marjorie\\Desktop\\PARCIAL\\PARCIAL\\PARCIAL.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "C:\\Users\\Marjorie\\Desktop\\PARCIAL\\PARCIAL\\PARCIAL.csproj": {
-                "projectPath": "C:\\Users\\Marjorie\\Desktop\\PARCIAL\\PARCIAL\\PARCIAL.csproj"
+              "C:\\Users\\Marjorie\\Desktop\\PARCIAL\\PARCIAL\\PARCIAL\\PARCIAL.csproj": {
+                "projectPath": "C:\\Users\\Marjorie\\Desktop\\PARCIAL\\PARCIAL\\PARCIAL\\PARCIAL.csproj"
               }
             }
           }
@@ -54,14 +54,14 @@
         }
       }
     },
-    "C:\\Users\\Marjorie\\Desktop\\PARCIAL\\PARCIAL\\PARCIAL.csproj": {
+    "C:\\Users\\Marjorie\\Desktop\\PARCIAL\\PARCIAL\\PARCIAL\\PARCIAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Marjorie\\Desktop\\PARCIAL\\PARCIAL\\PARCIAL.csproj",
+        "projectUniqueName": "C:\\Users\\Marjorie\\Desktop\\PARCIAL\\PARCIAL\\PARCIAL\\PARCIAL.csproj",
         "projectName": "PARCIAL",
-        "projectPath": "C:\\Users\\Marjorie\\Desktop\\PARCIAL\\PARCIAL\\PARCIAL.csproj",
+        "projectPath": "C:\\Users\\Marjorie\\Desktop\\PARCIAL\\PARCIAL\\PARCIAL\\PARCIAL.csproj",
         "packagesPath": "C:\\Users\\Marjorie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Marjorie\\Desktop\\PARCIAL\\PARCIAL\\obj\\",
+        "outputPath": "C:\\Users\\Marjorie\\Desktop\\PARCIAL\\PARCIAL\\PARCIAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yrW/HUPv8FIPLAhjeXXMHvNtNtQDUWGilvmDJHnPfTTyCT5LL9+uWSxS7PrO4oUr6g8MvoJghrilI3T27cxeqw==",
+  "dgSpecHash": "3jXnhFJKTVIC+3+AWvytefBFGu+E45fhL4n1XaEF0lUehlmdLkcorCCZr7ISbaTV5IZCFiJFJNrzTYx117rumg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Marjorie\\Desktop\\PARCIAL\\PARCIAL.iOS\\PARCIAL.iOS.csproj",
+  "projectFilePath": "C:\\Users\\Marjorie\\Desktop\\PARCIAL\\PARCIAL\\PARCIAL.iOS\\PARCIAL.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"

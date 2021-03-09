@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iI/7yRSPTtfjt/84Z6eGovFm7J+Bov6dWRX3Zg5DEn5C7p9uRxAqs7KtffCRcHs1GOXcd+vx5S8rx3RqdCLngQ==",
+  "dgSpecHash": "+X1zgMke09YbQEggjTFMHmo3Bxk9lH1jP7P9PTcDjUSJ+dr9AJi7AbHUhePZ+QpaydJL9hfeQXjsYECFf3/sow==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Marjorie\\Desktop\\PARCIAL\\PARCIAL.Android\\PARCIAL.Android.csproj",
+  "projectFilePath": "C:\\Users\\Marjorie\\Desktop\\PARCIAL\\PARCIAL\\PARCIAL.Android\\PARCIAL.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.common\\1.1.1.3\\xamarin.android.arch.core.common.1.1.1.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.runtime\\1.1.1.3\\xamarin.android.arch.core.runtime.1.1.1.3.nupkg.sha512",

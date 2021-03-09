@@ -987,11 +987,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Marjorie\\Desktop\\PARCIAL\\PARCIAL.iOS\\PARCIAL.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\Marjorie\\Desktop\\PARCIAL\\PARCIAL\\PARCIAL.iOS\\PARCIAL.iOS.csproj",
       "projectName": "PARCIAL.iOS",
-      "projectPath": "C:\\Users\\Marjorie\\Desktop\\PARCIAL\\PARCIAL.iOS\\PARCIAL.iOS.csproj",
+      "projectPath": "C:\\Users\\Marjorie\\Desktop\\PARCIAL\\PARCIAL\\PARCIAL.iOS\\PARCIAL.iOS.csproj",
       "packagesPath": "C:\\Users\\Marjorie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Marjorie\\Desktop\\PARCIAL\\PARCIAL.iOS\\obj\\",
+      "outputPath": "C:\\Users\\Marjorie\\Desktop\\PARCIAL\\PARCIAL\\PARCIAL.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1012,8 +1012,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Marjorie\\Desktop\\PARCIAL\\PARCIAL\\PARCIAL.csproj": {
-              "projectPath": "C:\\Users\\Marjorie\\Desktop\\PARCIAL\\PARCIAL\\PARCIAL.csproj"
+            "C:\\Users\\Marjorie\\Desktop\\PARCIAL\\PARCIAL\\PARCIAL\\PARCIAL.csproj": {
+              "projectPath": "C:\\Users\\Marjorie\\Desktop\\PARCIAL\\PARCIAL\\PARCIAL\\PARCIAL.csproj"
             }
           }
         }
